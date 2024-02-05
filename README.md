@@ -19,4 +19,4 @@ El presente informe (archivo: practica_2.ipynb) tiene como objetivo llevar a cab
 ![image](https://github.com/Flor243/Data-Science-Foundations/assets/86813843/8c6d58ba-49e9-45e9-a8fa-67ebd7a49bd1)
 
 
-Para correrlo en su entorno, debe descargar los archivos, abrirlos como Jupyter notebook o en Colab y correr todas las celdas.
+Para correrlo en su entorno, debe descargar todos los archivos en el mismo path, abrir los de extensión .ipynb como Jupyter notebook o en Colab y correr todas las celdas.
