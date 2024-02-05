@@ -2,7 +2,7 @@
 
 ## Situación 1:
 
-El propósito en el primer análisis (archivo practica1.ipynb) es llevar a cabo un análisis exploratorio de un conjunto de datos que contiene información demográfica y económica de las provincias de Argentina (provincias_datos_2022.xlsx). Este análisis tiene como objetivo realizar una exploración de las variables e identificar características relevantes o asociaciones que permitan obtener conocimientos relevantes para la toma de decisiones informadas en diversos ámbitos, como el económico, social y político.
+El propósito en el primer análisis (archivo practica_1.ipynb) es llevar a cabo un análisis exploratorio de un conjunto de datos que contiene información demográfica y económica de las provincias de Argentina (provincias_datos_2022.xlsx). Este análisis tiene como objetivo realizar una exploración de las variables e identificar características relevantes o asociaciones que permitan obtener conocimientos relevantes para la toma de decisiones informadas en diversos ámbitos, como el económico, social y político.
 ### Dataframe:
 ![image](https://github.com/Flor243/Data-Science-Foundations/assets/86813843/34711b78-999f-44fa-a31c-0d36e7a357b0)
 ### Visualización de datos:
@@ -11,7 +11,7 @@ El propósito en el primer análisis (archivo practica1.ipynb) es llevar a cabo 
 
 ## Situación 2:
 
-El presente informe tiene como objetivo llevar a cabo un análisis descriptivo y exploratorio de dos conjuntos de datos: el tipo de cambio oficial y paralelo en Argentina en el período del 1 de Junio de 2017 al 22 de Febrero del 2020, junto con el flujo de turistas provenientes de países limítrofes en el período de Enero del 2013 a marzo del 2021. Este análisis pretende arrojar luz sobre la distribución de las variables, describir los fenómenos que puedan observarse en esta exploración y, en particular, identificar posibles relaciones existentes entre dichas variables.
+El presente informe (archivo: practica_2.ipynb) tiene como objetivo llevar a cabo un análisis descriptivo y exploratorio de dos conjuntos de datos: el tipo de cambio oficial y paralelo en Argentina en el período del 1 de Junio de 2017 al 22 de Febrero del 2020, junto con el flujo de turistas provenientes de países limítrofes en el período de Enero del 2013 a marzo del 2021. Este análisis pretende arrojar luz sobre la distribución de las variables, describir los fenómenos que puedan observarse en esta exploración y, en particular, identificar posibles relaciones existentes entre dichas variables.
 ### Dataframe:
 ![image](https://github.com/Flor243/Data-Science-Foundations/assets/86813843/2d88e914-034c-44fd-9dd0-38837620b81a)
 ### Visualización de datos:
